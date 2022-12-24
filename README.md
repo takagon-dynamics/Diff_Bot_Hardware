@@ -1,2 +1,2 @@
 # Diff_Bot_Hardware
-A repository of information on aircraft design and parts purchases.
+This package contains information about the parts needed for the Diff Bot
