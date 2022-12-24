@@ -16,12 +16,12 @@
 |8         | スペーサM3*10      | uxcell    | [スペーサM3*10](https://www.amazon.co.jp/gp/product/B00AQTWIIM/ref=ewc_pr_img_3?smid=AANM8PRMV1MBN&psc=1) | 1 |  ||||
 |9         | スペーサM3*50      | uxcell    | [スペーサM3*50](https://www.amazon.co.jp/gp/product/B01IMU5EAA/ref=ewc_pr_img_4?smid=AANM8PRMV1MBN&psc=1) | 1 | ||||
 |10        | 六角ボルトセット   | V geby    | [六角ボルトセット](https://www.amazon.co.jp/gp/product/B07S3GHXRV/ref=ewc_pr_img_2?smid=A1SZOA9085T7AX&psc=1) | 1 | ||||
-
+|11        | キャスター         | HAMMER CASTER | [420G-R32](https://www.monotaro.com/p/0221/2777/?utm_id=g_pla&utm_medium=cpc&utm_source=google&utm_campaign=246-833-4061_17669658146_shopping&utm_content=&utm_term=pmax&gclid=Cj0KCQiA45qdBhD-ARIsAOHbVdFiZ4tfOF5IuPFscotzQaDlSBXlgcuSK-jGnNhZ9vtlxWfo9RiQ1vQaAkYpEALw_wcB) | 1 |  ||
 
 ### 3Dプリンタ印刷部品
 
 | 部品番号 | ファイル名         | 数量 | 備考 |
 |----------|--------------------|------|------|
-|11        | [board_and_motormount.stl](https://github.com/takagon-dynamics/Diff_Bot_Hardware/blob/main/3d_cad_data/board_and_motormount.stl)| 1 | 機体の１段目でモーターマウント付き、２段目とはM3*50のスペーサで接続 |
-|12        | [board.stl](https://github.com/takagon-dynamics/Diff_Bot_Hardware/blob/main/3d_cad_data/board_and_motormount.stl)| 2 ||
-|13        | [caster_mount.stl](https://github.com/takagon-dynamics/Diff_Bot_Hardware/blob/main/3d_cad_data/caster_mount.stl) | 1 ||
+|12        | [board_and_motormount.stl](https://github.com/takagon-dynamics/Diff_Bot_Hardware/blob/main/3d_cad_data/board_and_motormount.stl)| 1 | 機体の１段目でモーターマウント付き、２段目とはM3*50のスペーサで接続 |
+|13        | [board.stl](https://github.com/takagon-dynamics/Diff_Bot_Hardware/blob/main/3d_cad_data/board_and_motormount.stl)| 2 ||
+|14        | [caster_mount.stl](https://github.com/takagon-dynamics/Diff_Bot_Hardware/blob/main/3d_cad_data/caster_mount.stl) | 1 ||
