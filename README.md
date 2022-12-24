@@ -19,3 +19,9 @@
 
 
 ### 3Dプリンタ印刷部品
+
+| 部品番号 | ファイル名         | 数量 | 備考 |
+|----------|--------------------|------|------|
+|11        | [board_and_motormount.stl](https://github.com/takagon-dynamics/Diff_Bot_Hardware/blob/main/3d_cad_data/board_and_motormount.stl)| 1 | 機体の１段目でモーターマウント付き、２段目とはM3*50のスペーサで接続 |
+|12        | [board.stl](https://github.com/takagon-dynamics/Diff_Bot_Hardware/blob/main/3d_cad_data/board_and_motormount.stl)| 2 ||
+|13        | [caster_mount.stl](https://github.com/takagon-dynamics/Diff_Bot_Hardware/blob/main/3d_cad_data/caster_mount.stl) | 1 ||
