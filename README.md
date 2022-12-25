@@ -28,3 +28,4 @@ This package contains information about the parts needed for the Diff Bot
 |14        | [board_and_motormount.stl](https://github.com/takagon-dynamics/Diff_Bot_Hardware/blob/main/3d_cad_data/board_and_motormount.stl)| 1 | 機体の１段目でモーターマウント付き、２段目とはM3*50のスペーサで接続 |
 |15        | [board.stl](https://github.com/takagon-dynamics/Diff_Bot_Hardware/blob/main/3d_cad_data/board_and_motormount.stl)| 2 ||
 |16        | [caster_mount.stl](https://github.com/takagon-dynamics/Diff_Bot_Hardware/blob/main/3d_cad_data/caster_mount.stl) | 1 ||
+=======
